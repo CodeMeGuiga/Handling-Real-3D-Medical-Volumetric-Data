@@ -1,0 +1,17 @@
+# Project 2: Handling Real 3D Medical Volumetric Data
+# Dependencies
+
+torch>=2.0.0
+torchvision
+monai>=1.3.0
+nibabel>=5.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+scikit-image>=0.20.0
+scikit-learn>=1.2.0
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+plotly>=5.15.0
+PyYAML>=6.0.0
+tqdm>=4.65.0

@@ -1,0 +1,6 @@
+data/
+results_smoke/
+src/__pycache__/
+assets/fonts/
+results/*.pth
+.ipynb_checkpoints/
